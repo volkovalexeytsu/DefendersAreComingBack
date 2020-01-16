@@ -1,4 +1,4 @@
-create project with "cargo new" then copy code to main and dependencies to Cargo.toml
+create project with "cargo new" then copy code to main and dependencies to Cargo.toml (threadpool = "1.0" rand = "0.7")
 
 cargo build 
 
